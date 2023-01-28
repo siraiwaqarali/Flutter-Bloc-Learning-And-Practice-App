@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150202165454",
+    "project_id": "flutter-bloc-app-bab19",
+    "storage_bucket": "flutter-bloc-app-bab19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150202165454:android:fefb262e007cef8df3089f",
+        "android_client_info": {
+          "package_name": "com.codewithwaqar.blocapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150202165454-f8t6bcr6d7j5mn8ga6cpj8e50o0rd953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjdQlRiNQqDjjFO6OHA3j2TGScIvKWCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150202165454-f8t6bcr6d7j5mn8ga6cpj8e50o0rd953.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
